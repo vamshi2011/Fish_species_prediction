@@ -1,3 +1,6 @@
+# Important
+The dataset is provided in the repository as well as a link to download the dataset is provided in the Fish_species_prediction.ipynb file. After downloading the dataset locally in the system , then upload the dataset to the google collab to use it.
+
 # Fish_species_prediction
 This projects predicts the selected species of fish(Perch ,Bream, Roach, Pike, Smelt, Parkki, Whitefish) based on its length , height , weight. We have used the K Nearest Neighbours classifier from the sklearn library.
 
